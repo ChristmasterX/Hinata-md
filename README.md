@@ -105,8 +105,8 @@ heroku/nodejs
 
 ## ✧✧✧ CMD Deployment Method
 ```
-git clone https://github.com/FantoX001/Miku-MD.git
-cd Miku-MD
+git clone https://github.com/Faouz995/Hinata-MD.git
+cd Hinata-MD
 npm i
 npm start
 ```
@@ -132,8 +132,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/FantoX001/Miku-MD
-cd Miku-MD
+git clone https://github.com/Faouz995/Hinata-MD
+cd Hinata-MD
 npm i
 npm start
 ```
