@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['22891733300']
-global.OwnerNumber = ['22891733300']
-global.ownertag = ['22891733300']
-global.BotName = "Hinata Hyuga"
-global.packname = "Monkey D Luffy"
+global.Owner = ['2250153374305']
+global.OwnerNumber = ['2250153374305']
+global.ownertag = ['2250153374305']
+global.BotName = "Hinata bot"
+global.packname = "Christmaster"
 global.author = ""
-global.OwnerName = "Monkey D Luffy"
+global.OwnerName = "Christmaster"
 global.BotSourceCode = "https://github.com/Faouz995/Miku-Mod-to-Hinata"
 global.SupportGroupLink = "https://chat.whatsapp.com/BHVNdEnFK9aATr62XBP9D3"
 global.sessionName = "session"
